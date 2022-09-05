@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KeeperApp-keep-mockup/static/css/main.e9ccd806.css",
+    "main.js": "/KeeperApp-keep-mockup/static/js/main.b7764118.js",
+    "index.html": "/KeeperApp-keep-mockup/index.html",
+    "main.e9ccd806.css.map": "/KeeperApp-keep-mockup/static/css/main.e9ccd806.css.map",
+    "main.b7764118.js.map": "/KeeperApp-keep-mockup/static/js/main.b7764118.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9ccd806.css",
+    "static/js/main.b7764118.js"
+  ]
+}
